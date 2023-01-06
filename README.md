@@ -1,4 +1,4 @@
-# Free Cyber Sec Roadmap from 0 + Resources
+# Free Cyber Security Roadmap from 0 + Resources
 
 Hey Everyone,
 Only dedication required, no need of paid courses.
@@ -18,7 +18,7 @@ These are from Youtube, a collection of some of the best resources
 | 3         | [Networking For Hackers](https://www.youtube.com/playlist?list=PLLKT__MCUeiyUKmYaakznsZeU4lZYwt_j)         |
 | 3.1         | `BONUS`[ Networking by Kunal Kushwaha](https://youtu.be/IPvYjXCsTg8)         |
 
-## Module 2 - Beginners
+## Module 2 - Beginners Introduction
 
 | S.No          | Course Name   |
 | ------------- | ------------- |
@@ -26,7 +26,7 @@ These are from Youtube, a collection of some of the best resources
 | 5         | [Web App Testing](https://www.youtube.com/playlist?list=PLLKT__MCUeixCoi2jtP2Jj8nZzM4MOzBL)         |
 | 6         | [Penetration Testing Bootcamp](https://www.youtube.com/playlist?list=PLBf0hzazHTGOepimcP15eS6Y-aR4m6ql3)         |
 
-## Module 3 - Programming Languages // Optional yet Valuable
+## Module 3 - Programming Languages (Optional yet Valuable)
 
 | S.No          | Course Name   |
 | ------------- | ------------- |
@@ -35,9 +35,8 @@ These are from Youtube, a collection of some of the best resources
 | 9         | [Python For Hackers](https://www.youtube.com/playlist?list=PLBf0hzazHTGM_dncTqO9l-0zUQYP0nNPU)|
 | 10         | [Shell Scripting](https://www.youtube.com/playlist?list=PLBf0hzazHTGMJzHon4YXGscxUvsFpxrZT)
 
-## Module 4 - 
+## Module 4 - Websites/Labs to follow while learning and test skills on
 
-### Websites to follow after Learning or while learning
 [Try to Solve Wihtout Seeing Solutions]
 | S.No          | Course Name   |
 | ------------- | ------------- |
