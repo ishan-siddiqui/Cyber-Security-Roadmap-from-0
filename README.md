@@ -3,9 +3,7 @@
 Hey Everyone,
 Only dedication required, no need of paid courses.
 
-You can follow all modules simultaneously
-
-these courses are in order also
+You can follow the modules simultaneously as well as in order given below.
 
 These are from Youtube, a collection of some of the best resources
 
@@ -25,15 +23,16 @@ These are from Youtube, a collection of some of the best resources
 | 4       | [Full Ethical Hacking Course - Network Penetration Testing for Beginners](https://www.youtube.com/watch?v=3Kq1MIfTWCE)|
 | 5         | [Web App Testing](https://www.youtube.com/playlist?list=PLLKT__MCUeixCoi2jtP2Jj8nZzM4MOzBL)         |
 | 6         | [Penetration Testing Bootcamp](https://www.youtube.com/playlist?list=PLBf0hzazHTGOepimcP15eS6Y-aR4m6ql3)         |
+| 7         | [Kali Linux Complete Playlist](https://www.youtube.com/playlist?list=PLYmlEoSHldN7HJapyiQ8kFLUsk_a7EjCw)    |
 
 ## Module 3 - Programming Languages (Optional yet Valuable)
 
 | S.No          | Course Name   |
 | ------------- | ------------- |
-| 7       | [JavaScript](https://www.youtube.com/watch?v=PkZNo7MFNFg)         |
-| 8       | [SQL](https://youtu.be/5OdVJbNCSso)         |
-| 9         | [Python For Hackers](https://www.youtube.com/playlist?list=PLBf0hzazHTGM_dncTqO9l-0zUQYP0nNPU)|
-| 10         | [Shell Scripting](https://www.youtube.com/playlist?list=PLBf0hzazHTGMJzHon4YXGscxUvsFpxrZT)
+| 8       | [JavaScript](https://www.youtube.com/watch?v=PkZNo7MFNFg)         |
+| 9       | [SQL](https://youtu.be/5OdVJbNCSso)         |
+| 10         | [Python For Hackers](https://www.youtube.com/playlist?list=PLBf0hzazHTGM_dncTqO9l-0zUQYP0nNPU)|
+| 11         | [Shell Scripting](https://www.youtube.com/playlist?list=PLBf0hzazHTGMJzHon4YXGscxUvsFpxrZT)
 
 ## Module 4 - Websites/Labs to follow while learning and test skills on
 
