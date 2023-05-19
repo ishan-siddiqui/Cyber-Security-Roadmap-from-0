@@ -42,4 +42,5 @@ These are from Youtube, a collection of some of the best resources
 | 1       | [Portswigger](https://portswigger.net/web-security/learning-path)         |
 | 2       | [PentesterLab](https://pentesterlab.com/exercises)         |
 | 3         | [Application security](https://application.security/)|
-| 4         | [Try Hack me](https://tryhackme.com/)
+| 4         | [Try Hack me](https://tryhackme.com/) |
+| 5         | [Hack Sheets](https://hacksheets.in/) |
